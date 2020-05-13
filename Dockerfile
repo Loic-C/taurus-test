@@ -4,4 +4,4 @@ WORKDIR /tmp
 RUN chmod -R 777 /tmp 
 
 WORKDIR /.bzt
-RUN chmod -R 777 /.bzt
+RUN chmod -R 777 /.bzt-rc
